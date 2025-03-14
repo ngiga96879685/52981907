@@ -1,3 +1,4 @@
+// error processing code
 OracleJdbcTest test = new OracleJdbcTest();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 Class.forName(driverClass);
