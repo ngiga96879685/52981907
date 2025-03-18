@@ -1,3 +1,4 @@
+// do the thing you do
 BufferedWriter out = null;
 // error processing code
 OracleJdbcTest test = new OracleJdbcTest();
