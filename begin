@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 test.fetch();
 if (out != null) {
 // do the thing you do
